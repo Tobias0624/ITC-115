@@ -9,7 +9,7 @@ public class cardNames {
 		String [] suits = {"Club", "Diamond", "Heart", "Spade", };
 		String [] rank = {"A", "2", "3", "4", "5","6", "7", "8", "9", "10", "J", "Q", "K"};
 		String[] cardName = {"C", "D", "H", "S"};
-		String [] cardNumber = {"Ace", "One", "Two", "","","","","","","","","","",""};
+		String [] cardNumber = {"Ace", "One", "Two", "Three","Four","Five","Six","Seven","Eight","Nine","Ten","Jack","Queen","King"};
 		String RankV = "" ;
 		String SuitV = "";
 		
